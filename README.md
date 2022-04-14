@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @vinivbrum
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning about machine learning 
+- 💞️ I’m looking to collaborate on machine larning apply in medicine
