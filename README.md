@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vinivbrum
-PROFISSIONAL DA ODONTOLOGIA QUE ACABOU SE APAIXONANDO POR ANALISE DE DADOS E CIENCIA DE DADOS
+- PROFISSIONAL DA ODONTOLOGIA QUE ACABOU SE APAIXONANDO POR ANALISE DE DADOS E CIENCIA DE DADOS
 
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning about machine learning 
