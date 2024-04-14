@@ -2,7 +2,6 @@
 - 👋 Hi, I’m @vinivbrum. Data analyst with expertise in the area of ​​strategies and development of insights for the business.
 
 With focus and dedication, I use my knowledge in Power BI, SQL and data analysis to build and amplify results. In addition, I have been guided through mentorships to develop analytical thinking along with projects with other companies, solving business cases and presenting data, focused on the attention of the business area.
-- BI or BA ? I love both
 
 # What can you see Here?
 - Here you will see my Python Projets 
