@@ -5,7 +5,7 @@ With focus and dedication, I use my knowledge in Power BI, SQL and data analysis
 
 # What can you see Here?
 - Here you will see my Python Projets 
-## **Featured**
+## **Data Analysis**
 ## [Store Challance](https://github.com/vinivbrum/vinivbrum/blob/main/Store_challange.ipynb)
 - We work in a cloth store, and need to understand our customer behavior. We need to know how are the top 10 customers, where they bought, how much they spend for month, which social class they are, how old are they, etc. 
 - In 2022 we start a promotion in one product. This promotion had a good effect in sales? 
